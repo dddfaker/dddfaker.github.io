@@ -79,18 +79,18 @@
 
 
 
-<meta name="description" content="在使用自己的hexo博客中，经常会碰到一个问题，就是将博客发到网上后点击某些生成的链接时，出现”404 NOT FOUND”，（用F12或鼠标放在链接位置）检查存储的链接时，可以看到链接的url.我遇到的是以http://yoursite.com开头的网址.这是一个网站的地址，是你下载时初始自带的，而你其实并没有在这个网站上注册使用（付费云端储存）,而实际上你把它改成xxx.github.io就可">
+<meta name="description" content="在使用自己的hexo博客中，经常会碰到一个问题，就是将博客发到网上后点击某些生成的链接时，出现”NOT FOUND”，（用F12或鼠标放在链接位置）检查存储的链接时，可以看到链接的url.我遇到的是以http://yoursite.com开头的网址.这是一个网站的地址，是你下载时初始自带的，而你其实并没有在这个网站上注册使用（付费云端储存）,而实际上你把它改成xxx.github.io就可以正确指">
 <meta name="keywords" content="Hexo">
 <meta property="og:type" content="article">
 <meta property="og:title" content="关于url的更改">
 <meta property="og:url" content="http://dddfaker.github.io/2019/06/07/关于url的更改/index.html">
 <meta property="og:site_name" content="dddfaker">
-<meta property="og:description" content="在使用自己的hexo博客中，经常会碰到一个问题，就是将博客发到网上后点击某些生成的链接时，出现”404 NOT FOUND”，（用F12或鼠标放在链接位置）检查存储的链接时，可以看到链接的url.我遇到的是以http://yoursite.com开头的网址.这是一个网站的地址，是你下载时初始自带的，而你其实并没有在这个网站上注册使用（付费云端储存）,而实际上你把它改成xxx.github.io就可">
+<meta property="og:description" content="在使用自己的hexo博客中，经常会碰到一个问题，就是将博客发到网上后点击某些生成的链接时，出现”NOT FOUND”，（用F12或鼠标放在链接位置）检查存储的链接时，可以看到链接的url.我遇到的是以http://yoursite.com开头的网址.这是一个网站的地址，是你下载时初始自带的，而你其实并没有在这个网站上注册使用（付费云端储存）,而实际上你把它改成xxx.github.io就可以正确指">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-07T08:14:49.270Z">
+<meta property="og:updated_time" content="2019-06-07T08:16:10.452Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="关于url的更改">
-<meta name="twitter:description" content="在使用自己的hexo博客中，经常会碰到一个问题，就是将博客发到网上后点击某些生成的链接时，出现”404 NOT FOUND”，（用F12或鼠标放在链接位置）检查存储的链接时，可以看到链接的url.我遇到的是以http://yoursite.com开头的网址.这是一个网站的地址，是你下载时初始自带的，而你其实并没有在这个网站上注册使用（付费云端储存）,而实际上你把它改成xxx.github.io就可">
+<meta name="twitter:description" content="在使用自己的hexo博客中，经常会碰到一个问题，就是将博客发到网上后点击某些生成的链接时，出现”NOT FOUND”，（用F12或鼠标放在链接位置）检查存储的链接时，可以看到链接的url.我遇到的是以http://yoursite.com开头的网址.这是一个网站的地址，是你下载时初始自带的，而你其实并没有在这个网站上注册使用（付费云端储存）,而实际上你把它改成xxx.github.io就可以正确指">
 
 
 
@@ -360,7 +360,7 @@
       
 
       
-        <p>在使用自己的hexo博客中，经常会碰到一个问题，就是将博客发到网上后点击某些生成的链接时，出现”404 NOT FOUND”，（用F12或鼠标放在链接位置）检查存储的链接时，可以看到链接的url.我遇到的是以<code>http://yoursite.com</code>开头的网址.这是一个网站的地址，是你下载时初始自带的，而你其实并没有在这个网站上注册使用（付费云端储存）,而实际上你把它改成<code>xxx.github.io</code>就可以正确指向到你的博客了.</p>
+        <p>在使用自己的hexo博客中，经常会碰到一个问题，就是将博客发到网上后点击某些生成的链接时，出现”NOT FOUND”，（用F12或鼠标放在链接位置）检查存储的链接时，可以看到链接的url.我遇到的是以<code>http://yoursite.com</code>开头的网址.这是一个网站的地址，是你下载时初始自带的，而你其实并没有在这个网站上注册使用（付费云端储存）,而实际上你把它改成<code>xxx.github.io</code>就可以正确指向到你的博客了.</p>
 <p>如何修改：</p>
 <p>打开系统配置文件下的<code>_config.yml</code>，找到</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># URL</span><br><span class="line">## If your site is put in a subdirectory, set url as &apos;http://http://yoursite.com/child&apos; and root as &apos;/child/&apos;</span><br><span class="line">url: http://yoursite.com/child</span><br><span class="line">root: /</span><br><span class="line">permalink: :year/:month/:day/:title/</span><br><span class="line">permalink_defaults:</span><br></pre></td></tr></table></figure>
