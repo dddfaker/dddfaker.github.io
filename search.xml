@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2020/03/02/test/"/>
+      <url>/2020/03/02/test/</url>
+      
+        <content type="html"><![CDATA[<p>111</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>储存int类型的集合类</title>
       <link href="/2019/06/20/%E5%82%A8%E5%AD%98int%E7%B1%BB%E5%9E%8B%E7%9A%84%E9%9B%86%E5%90%88%E7%B1%BB/"/>
       <url>/2019/06/20/%E5%82%A8%E5%AD%98int%E7%B1%BB%E5%9E%8B%E7%9A%84%E9%9B%86%E5%90%88%E7%B1%BB/</url>
