@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Xuanwen Ding. I am currently a Ph.D. candidate at Fudan Univeristy, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ). I am a member of the [Fudan Data Intelligence and Social Computing (Fudan DISC) lab](http://fudan-disc.com/) and the Fudan NLP group. Before that, I received my master's degree from East China Normal University, where I was advised by Prof. Liang Dou and [Jie Zhou](https://scholar.google.com/citations?hl=en&user=dKt8wwQAAAAJ&view_op=list_works&sortby=pubdate).
+Hello! This is Xuanwen Ding. I am currently pursuing a Ph.D. at Fudan University, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ). I am a member of the [Fudan Data Intelligence and Social Computing (Fudan DISC) lab](http://fudan-disc.com/) and the Fudan NLP group. Previously, I received my master's degree from East China Normal University, where I was advised by Prof. Liang Dou and Prof. [Jie Zhou](https://scholar.google.com/citations?hl=en&user=dKt8wwQAAAAJ&view_op=list_works&sortby=pubdate).
 
-My research interest includes Natural Language Processing, Computational Social Science and Continual Learning.
+My research interests include Natural Language Processing, Computational Social Science, and Continual Learning.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -40,13 +40,14 @@ My research interest includes Natural Language Processing, Computational Social 
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-- [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?). **Xuanwen Ding\***, Chengjun Pan\*, Zejun Li\*, Jiwen Zhang\*, Siyuan Wang, Zhongyu Wei. **Under Review**.
+† indicates equal contributions.
+- [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?). **Xuanwen Ding†**, Chengjun Pan†, Zejun Li†, Jiwen Zhang†, Siyuan Wang, Zhongyu Wei. **Under Review**.
 
 - [Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2405.05496). **Xuanwen Ding**, Jie Zhou, Liang Dou, Qin Chen, Yuanbin Wu, Chengcai Chen, Liang He. **EMNLP 2024**.
 
 - [FinHunter: Improved Search-based Test Generation for Structural Testing of FinTech Systems](https://dl.acm.org/doi/abs/10.1145/3663529.3663823). **Xuanwen Ding**, Qingshun Wang, Dan Liu, LiHua Xu, Jun Xiao, Bojun Zhang, Xue Li, Liang Dou, Liang He, Tao Xie. **FSE 2024**.
 
-- [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563?). Xinyi Mou\*, **Xuanwen Ding\***, Qi He\*, Liang Wang\*, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei. **Under Review**.
+- [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563?). Xinyi Mou†, **Xuanwen Ding†**, Qi He†, Liang Wang†, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei. **Under Review**.
 
 - [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653). Yutao Yang, Jie Zhou, **Xuanwen Ding**, Tianyu Huai, Shunyu Liu, Qin Chen, Liang He, Yuan Xie. **ACM Computing Survey**.
 
@@ -54,13 +55,13 @@ My research interest includes Natural Language Processing, Computational Social 
 
 # 🎖 Honors and Awards
 - National Scholarship, China, 2023-2024
-- First Prize in Mathematical Contest in Modeling/ Interdisciplinary Contest in Modeling (MCM/ICM), 2021
+- First Prize in the Mathematical Contest in Modeling/ Interdisciplinary Contest in Modeling (MCM/ICM), 2021
 - First Prize in China Undergraduate Mathematical Contest in Modeling (CUMCM), 2020
 - Bronze Medal in ACM-ICPC Asia Nanjing Regional Contest, 2019
 - National Scholarship, China, 2020-2021
 
 # 📖 Educations
-- *2025.09 - now*, Ph.D. Candidate in Statistics (Statistical Machine Learning Direction), Fudan University, Shanghai, China.
+- *2025.09 - present*, Ph.D. Candidate in Statistics (Statistical Machine Learning), Fudan University, Shanghai, China.
 - *2022.09 - 2025.06*, Master of Computer Science, East China Normal University, Shanghai, China.
 - *2018.09 - 2022.06*, Bachelor of Computer Science, Hangzhou Dianzi University, Hangzhou, China.
 
@@ -69,5 +70,5 @@ My research interest includes Natural Language Processing, Computational Social 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.05 - 2024.09*, intern of NLP algorithm engineer at Meituan Daojia Group, Beijing, China
-- *2022.01 - 2022.06*, intern of machine learning algorithm engineer at Ant Group MYbank, Hangzhou, China
+- *2024.05 - 2024.09*, NLP Algorithm Engineering Intern, Meituan Daojia Group, Beijing, China
+- *2022.01 - 2022.06*, ML Algorithm Engineering Intern, Ant Group MYbank, Hangzhou, China
