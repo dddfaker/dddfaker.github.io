@@ -55,10 +55,10 @@ My research interests include Natural Language Processing, Computational Social 
 
 # 🎖 Honors and Awards
 - National Scholarship, China, 2023-2024
+- National Scholarship, China, 2020-2021
 - First Prize in the Mathematical Contest in Modeling/ Interdisciplinary Contest in Modeling (MCM/ICM), 2021
 - First Prize in China Undergraduate Mathematical Contest in Modeling (CUMCM), 2020
 - Bronze Medal in ACM-ICPC Asia Nanjing Regional Contest, 2019
-- National Scholarship, China, 2020-2021
 
 # 📖 Educations
 - *2025.09 - present*, Ph.D. Candidate in Statistics (Statistical Machine Learning), Fudan University, Shanghai, China.
