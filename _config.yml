@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuanwen Ding"
-description              : "A Ph.D. candidate at Fudan University"
+description              : "A Ph.D. candidate at Fudan University and Shanghai Innovation Institute"
 repository               : "dddfaker/dddfaker.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xuanwen Ding"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Fudan University"
+  bio              : # "Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

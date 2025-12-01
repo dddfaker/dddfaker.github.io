@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Xuanwen Ding. I am currently pursuing a Ph.D. at Fudan University, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ). I am a member of the [Fudan Data Intelligence and Social Computing (Fudan DISC) lab](http://fudan-disc.com/) and the Fudan NLP group. Previously, I received my master's degree from East China Normal University, where I was advised by Prof. Liang Dou and Prof. [Jie Zhou](https://scholar.google.com/citations?hl=en&user=dKt8wwQAAAAJ&view_op=list_works&sortby=pubdate).
+Hello! This is Xuanwen Ding. I am currently pursuing my Ph.D. at Fudan University and the Shanghai Innovation Institute, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ). I am a member of the [Fudan Data Intelligence and Social Computing (Fudan DISC) lab](http://fudan-disc.com/) and the Fudan NLP group. Previously, I received my master's degree from East China Normal University, where I was advised by Prof. Liang Dou and Prof. [Jie Zhou](https://scholar.google.com/citations?hl=en&user=dKt8wwQAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research interests include Natural Language Processing, Computational Social Science, and Continual Learning.
 
