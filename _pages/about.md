@@ -41,15 +41,20 @@ My research interests include Natural Language Processing, Computational Social 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 † indicates equal contributions.
-- [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?). **Xuanwen Ding†**, Chengjun Pan†, Zejun Li†, Jiwen Zhang†, Siyuan Wang, Zhongyu Wei. **Under Review**.
+- **[Preprint]** [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?). <br>
+  **Xuanwen Ding†**, Chengjun Pan†, Zejun Li†, Jiwen Zhang†, Siyuan Wang, Zhongyu Wei.
 
-- [Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2405.05496). **Xuanwen Ding**, Jie Zhou, Liang Dou, Qin Chen, Yuanbin Wu, Chengcai Chen, Liang He. **EMNLP 2024**.
+- **[ACM Computing Survey]** [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563?). <br>
+  Xinyi Mou†, **Xuanwen Ding†**, Qi He†, Liang Wang†, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei.
 
-- [FinHunter: Improved Search-based Test Generation for Structural Testing of FinTech Systems](https://dl.acm.org/doi/abs/10.1145/3663529.3663823). **Xuanwen Ding**, Qingshun Wang, Dan Liu, LiHua Xu, Jun Xiao, Bojun Zhang, Xue Li, Liang Dou, Liang He, Tao Xie. **FSE 2024**.
+- **[EMNLP 2024]** [Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2405.05496). <br>
+  **Xuanwen Ding**, Jie Zhou, Liang Dou, Qin Chen, Yuanbin Wu, Chengcai Chen, Liang He.
 
-- [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563?). Xinyi Mou†, **Xuanwen Ding†**, Qi He†, Liang Wang†, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei. **Under Review**.
+- **[FSE 2024]** [FinHunter: Improved Search-based Test Generation for Structural Testing of FinTech Systems](https://dl.acm.org/doi/abs/10.1145/3663529.3663823). <br>
+  **Xuanwen Ding**, Qingshun Wang, Dan Liu, LiHua Xu, Jun Xiao, Bojun Zhang, Xue Li, Liang Dou, Liang He, Tao Xie. 
 
-- [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653). Yutao Yang, Jie Zhou, **Xuanwen Ding**, Tianyu Huai, Shunyu Liu, Qin Chen, Liang He, Yuan Xie. **ACM Computing Survey**.
+- **[ACM Computing Survey]** [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653).  <br>
+  Yutao Yang, Jie Zhou, **Xuanwen Ding**, Tianyu Huai, Shunyu Liu, Qin Chen, Liang He, Yuan Xie.
 
 
 
