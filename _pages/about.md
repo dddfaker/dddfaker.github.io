@@ -41,6 +41,9 @@ My research interests include Natural Language Processing, Computational Social 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 † indicates equal contributions.
+- **[Preprint]** [Towards a Science of Collective AI: LLM-based Multi-Agent Systems Need a Transition from Blind Trial-and-Error to Rigorous Science](https://arxiv.org/pdf/2602.05289). <br>
+  Jingru Fan†, Dewen Liu†, Yufan Dang, Huatao Li, Yuheng Wang, Wei Liu, Feiyu Duan, **Xuanwen Ding**, Shu Yao, Lin Wu, Ruijie Shi, Wai-Shing Leung, Yuan Cheng, Zhongyu Wei, Cheng Yang, Chen Qian, Zhiyuan Liu, Maosong Sun.
+
 - **[Preprint]** [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?). <br>
   **Xuanwen Ding†**, Chengjun Pan†, Zejun Li†, Jiwen Zhang†, Siyuan Wang, Zhongyu Wei.
 
