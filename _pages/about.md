@@ -40,26 +40,76 @@ My research interests include Natural Language Processing, Computational Social 
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-† indicates equal contributions.
-- **[Preprint]** [Towards a Science of Collective AI: LLM-based Multi-Agent Systems Need a Transition from Blind Trial-and-Error to Rigorous Science](https://arxiv.org/pdf/2602.05289). <br>
+
+<!-- † indicates equal contributions. -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/Towards_a_Science_of_Collective_AI.jpg' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards a Science of Collective AI: LLM-based Multi-Agent Systems Need a Transition from Blind Trial-and-Error to Rigorous Science](https://arxiv.org/pdf/2602.05289). <br>
   Jingru Fan†, Dewen Liu†, Yufan Dang, Huatao Li, Yuheng Wang, Wei Liu, Feiyu Duan, **Xuanwen Ding**, Shu Yao, Lin Wu, Ruijie Shi, Wai-Shing Leung, Yuan Cheng, Zhongyu Wei, Cheng Yang, Chen Qian, Zhiyuan Liu, Maosong Sun.
 
-- **[Preprint]** [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?). <br>
-  **Xuanwen Ding†**, Chengjun Pan†, Zejun Li†, Jiwen Zhang†, Siyuan Wang, Zhongyu Wei.
+  Keyword: LLM; Multi-Agent Collaboration; Collaborative Intelligence; Factor Attribution
+</div>
+</div>
 
-- **[ACM Computing Survey]** [From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563?). <br>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/AutoJudger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?)
+  **Xuanwen Ding†**, Chengjun Pan†, Zejun Li†, Jiwen Zhang†, Siyuan Wang, Zhongyu Wei.
+  
+  Keyword: Efficient Benchmarking; Multimodal Large Language Models; Agent
+
+  [[GitHub]](https://github.com/IMNearth/AutoJudger)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys</div><img src='images/paper/From_Individual_to_Society.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents](https://arxiv.org/pdf/2412.03563?). <br>
   Xinyi Mou†, **Xuanwen Ding†**, Qi He†, Liang Wang†, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei.
 
-- **[EMNLP 2024]** [Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2405.05496). <br>
+  Keyword: Social Simulation; LLM; Agent; Survey
+
+  [[GitHub]](https://github.com/FudanDISC/SocialAgent)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/paper/LLM_CL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2405.05496). <br>
   **Xuanwen Ding**, Jie Zhou, Liang Dou, Qin Chen, Yuanbin Wu, Chengcai Chen, Liang He.
 
-- **[FSE 2024]** [FinHunter: Improved Search-based Test Generation for Structural Testing of FinTech Systems](https://dl.acm.org/doi/abs/10.1145/3663529.3663823). <br>
-  **Xuanwen Ding**, Qingshun Wang, Dan Liu, LiHua Xu, Jun Xiao, Bojun Zhang, Xue Li, Liang Dou, Liang He, Tao Xie. 
+  Keyword: LLM; Aspect-based Sentiment Analysis; Continual Learning
 
-- **[ACM Computing Survey]** [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653).  <br>
+  [[GitHub]](https://github.com/ECNU-ICALK/EasyCL)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='images/paper/FinHunter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FinHunter: Improved Search-based Test Generation for Structural Testing of FinTech Systems](https://dl.acm.org/doi/abs/10.1145/3663529.3663823). <br>
+  **Xuanwen Ding**, Qingshun Wang, Dan Liu, LiHua Xu, Jun Xiao, Bojun Zhang, Xue Li, Liang Dou, Liang He, Tao Xie.
+
+  Keyword: FinTech; Automated Test Generation; Genetic Algorithm
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys</div><img src='images/paper/CL_Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653). <br>
   Yutao Yang, Jie Zhou, **Xuanwen Ding**, Tianyu Huai, Shunyu Liu, Qin Chen, Liang He, Yuan Xie.
 
+  Keyword: Continual Learning; Foundation Language Models; Pre-trained Language Models; Large Language Models; Vision-Language Models; Survey
 
+  [[GitHub]](https://github.com/ECNU-ICALK/Foundation-LMs-based-Continual-Learning)
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - National Scholarship, China, 2023-2024
