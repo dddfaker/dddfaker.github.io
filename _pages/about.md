@@ -43,16 +43,6 @@ My research interests include Natural Language Processing, Computational Social 
 
 <!-- † indicates equal contributions. -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/Towards_a_Science_of_Collective_AI.jpg' alt="sym" width="200%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards a Science of Collective AI: LLM-based Multi-Agent Systems Need a Transition from Blind Trial-and-Error to Rigorous Science](https://arxiv.org/pdf/2602.05289). <br>
-  Jingru Fan†, Dewen Liu†, Yufan Dang, Huatao Li, Yuheng Wang, Wei Liu, Feiyu Duan, **Xuanwen Ding**, Shu Yao, Lin Wu, Ruijie Shi, Wai-Shing Leung, Yuan Cheng, Zhongyu Wei, Cheng Yang, Chen Qian, Zhiyuan Liu, Maosong Sun.
-
-  Keyword: LLM; Multi-Agent Collaboration; Collaborative Intelligence; Factor Attribution
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/AutoJudger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,6 +88,18 @@ My research interests include Natural Language Processing, Computational Social 
   Keyword: FinTech; Automated Test Generation; Genetic Algorithm
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/Towards_a_Science_of_Collective_AI.jpg' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards a Science of Collective AI: LLM-based Multi-Agent Systems Need a Transition from Blind Trial-and-Error to Rigorous Science](https://arxiv.org/pdf/2602.05289). <br>
+  Jingru Fan†, Dewen Liu†, Yufan Dang, Huatao Li, Yuheng Wang, Wei Liu, Feiyu Duan, **Xuanwen Ding**, Shu Yao, Lin Wu, Ruijie Shi, Wai-Shing Leung, Yuan Cheng, Zhongyu Wei, Cheng Yang, Chen Qian, Zhiyuan Liu, Maosong Sun.
+
+  Keyword: LLM; Multi-Agent Collaboration; Collaborative Intelligence; Factor Attribution
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys</div><img src='images/paper/CL_Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
