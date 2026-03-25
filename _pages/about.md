@@ -63,7 +63,7 @@ My research interests include Natural Language Processing, Computational Social 
 
   Keyword: Social Simulation; LLM; Agent; Survey
 
-  [[GitHub]](https://github.com/FudanDISC/SocialAgent)
+  [[GitHub]](https://github.com/FudanDISC/SocialAgent) [[Synced (机器之心)]](https://mp.weixin.qq.com/s/Uy_NYkDGp9CqmO2j9XOfCA)
 </div>
 </div>
 
