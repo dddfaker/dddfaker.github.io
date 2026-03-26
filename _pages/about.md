@@ -90,6 +90,17 @@ My research interests include Natural Language Processing, Computational Social 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/ProcureGym.png' alt="sym" width="200%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProcureGym: A Multi-Agent Markov Game Framework for Modeling National Volume-based Drug Procurement](https://arxiv.org/abs/2603.23880). <br>
+  Jia Wang†, Qian Xu†, **Xuanwen Ding**, Zhuangqi Li, Chao He, Bao Liu, Zhongyu Wei.
+
+  Keyword: National Volume-Based Drug Procurement; Multi-agent Simulation; Markov Decision Process; Reinforcement Learning
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/Towards_a_Science_of_Collective_AI.jpg' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
