@@ -97,6 +97,8 @@ My research interests include Natural Language Processing, Computational Social 
   Jia Wang†, Qian Xu†, **Xuanwen Ding**, Zhuangqi Li, Chao He, Bao Liu, Zhongyu Wei.
 
   Keyword: National Volume-Based Drug Procurement; Multi-agent Simulation; Markov Decision Process; Reinforcement Learning
+
+  [[GitHub]](https://github.com/JiaWANG-TJ/ProcureGym)
 </div>
 </div>
 
