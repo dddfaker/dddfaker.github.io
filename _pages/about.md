@@ -43,10 +43,10 @@ My research interests include Natural Language Processing, Computational Social 
 
 <!-- † indicates equal contributions. -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/AutoJudger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/paper/AutoJudger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?)
+ [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/pdf/2505.21389?). <br>
   **Xuanwen Ding†**, Chengjun Pan†, Zejun Li†, Jiwen Zhang†, Siyuan Wang, Zhongyu Wei.
   
   Keyword: Efficient Benchmarking; Multimodal Large Language Models; Agent
