@@ -51,6 +51,8 @@ My research interests include Natural Language Processing, Computational Social 
   
   Keyword: Efficient Benchmarking; Multimodal Large Language Models; Agent
 
+  The 64rd Annual Meeting of the Association for Computational Linguistics (ACL-Main 2026)
+
   [[GitHub]](https://github.com/IMNearth/AutoJudger)
 </div>
 </div>
@@ -62,6 +64,8 @@ My research interests include Natural Language Processing, Computational Social 
   Xinyi Mou†, **Xuanwen Ding†**, Qi He†, Liang Wang†, Jingcong Liang, Xinnong Zhang, Libo Sun, Jiayu Lin, Jie Zhou, Xuanjing Huang, Zhongyu Wei.
 
   Keyword: Social Simulation; LLM; Agent; Survey
+
+  ACM Computing Surveys, 2026 (CSUR)
 
   [[GitHub]](https://github.com/FudanDISC/SocialAgent) [[Synced (机器之心)]](https://mp.weixin.qq.com/s/Uy_NYkDGp9CqmO2j9XOfCA)
 </div>
@@ -75,6 +79,8 @@ My research interests include Natural Language Processing, Computational Social 
 
   Keyword: LLM; Aspect-based Sentiment Analysis; Continual Learning
 
+  The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-Findings 2024)
+
   [[GitHub]](https://github.com/ECNU-ICALK/EasyCL)
 </div>
 </div>
@@ -86,6 +92,8 @@ My research interests include Natural Language Processing, Computational Social 
   **Xuanwen Ding**, Qingshun Wang, Dan Liu, LiHua Xu, Jun Xiao, Bojun Zhang, Xue Li, Liang Dou, Liang He, Tao Xie.
 
   Keyword: FinTech; Automated Test Generation; Genetic Algorithm
+
+  The ACM International Conference on the Foundations of Software Engineering (FSE Industry Track 2024)
 </div>
 </div>
 
@@ -97,6 +105,8 @@ My research interests include Natural Language Processing, Computational Social 
   Jia Wang†, Qian Xu†, **Xuanwen Ding**, Zhuangqi Li, Chao He, Bao Liu, Zhongyu Wei.
 
   Keyword: National Volume-Based Drug Procurement; Multi-agent Simulation; Markov Decision Process; Reinforcement Learning
+
+  Preprint 2026
 
   [[GitHub]](https://github.com/JiaWANG-TJ/ProcureGym)
 </div>
@@ -110,6 +120,9 @@ My research interests include Natural Language Processing, Computational Social 
   Jingru Fan†, Dewen Liu†, Yufan Dang, Huatao Li, Yuheng Wang, Wei Liu, Feiyu Duan, **Xuanwen Ding**, Shu Yao, Lin Wu, Ruijie Shi, Wai-Shing Leung, Yuan Cheng, Zhongyu Wei, Cheng Yang, Chen Qian, Zhiyuan Liu, Maosong Sun.
 
   Keyword: LLM; Multi-Agent Collaboration; Collaborative Intelligence; Factor Attribution
+
+  Preprint 2026
+
 </div>
 </div>
 
@@ -122,6 +135,7 @@ My research interests include Natural Language Processing, Computational Social 
 
   Keyword: Continual Learning; Foundation Language Models; Pre-trained Language Models; Large Language Models; Vision-Language Models; Survey
 
+  ACM Computing Surveys, 2024 (CSUR)
   [[GitHub]](https://github.com/ECNU-ICALK/Foundation-LMs-based-Continual-Learning)
 </div>
 </div>
