@@ -127,7 +127,7 @@ My research interests include Natural Language Processing, Computational Social 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys</div><img src='images/paper/CL_Survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys</div><img src='images/paper/CL_Survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653). <br>
@@ -139,6 +139,18 @@ My research interests include Natural Language Processing, Computational Social 
   [[GitHub]](https://github.com/ECNU-ICALK/Foundation-LMs-based-Continual-Learning)
 </div>
 </div>
+
+# Services
+**Reviewer**
+- Journal: TASLP
+- Workshop: LLA @ ICLR 2026, LLA @ COLM 2026
+
+**Teaching Assistant**
+- *CS60004-Artificial Intelligence*, FDU (Spring 26)
+- *CSCI-SHU 11-Introduction to Computer Programming*, NYUSH (Spring 23, Fall 23, Spring 24)
+- *CSCI-SHU 360-Machine Learning*, NYUSH (Spring 23, Fall 23)
+- *Compilation Principles*, ECNU (Spring 23)
+- *Principles of Database Systems and Educational Application Practice*, ECNU (Fall 22)
 
 # 🎖 Honors and Awards
 - National Scholarship, China, 2023-2024

@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Services"
+    url: "https://qiaoyu-tan.github.io/service.html"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
