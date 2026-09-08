@@ -142,7 +142,7 @@ My research interests include Natural Language Processing, Computational Social 
 
 # Services
 **Reviewer**
-- Journal: TASLP
+- Journal: IEEE Transactions on Audio, Speech and Language Processing (TASLP), Journal of Natural Language Processing
 - Workshop: LLA @ ICLR 2026, LLA @ COLM 2026
 
 **Teaching Assistant**
