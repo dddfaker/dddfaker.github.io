@@ -160,7 +160,7 @@ My research interests include Natural Language Processing, Computational Social 
 - Bronze Medal in ACM-ICPC Asia Nanjing Regional Contest, 2019
 
 # 📖 Educations
-- *2025.09 - present*, Ph.D. Candidate in Statistics (Statistical Machine Learning), Fudan University, Shanghai, China.
+- *2025.09 - present*, Ph.D. Candidate in Intelligence Science and Technology, Fudan University, Shanghai, China.
 - *2022.09 - 2025.06*, Master of Computer Science, East China Normal University, Shanghai, China.
 - *2018.09 - 2022.06*, Bachelor of Computer Science, Hangzhou Dianzi University, Hangzhou, China.
 
