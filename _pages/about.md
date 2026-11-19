@@ -98,6 +98,21 @@ My research interests include Natural Language Processing, Computational Social 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2027</div><img src='images/paper/ClinVerse.png' alt="ClinVerse" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ClinVerse: A Realistic Multi-Agent Diagnostic Environment for Training and Evaluating Medical Agents](https://arxiv.org/abs/2610.34878). <br>
+  Sirry Chen, Fangke Chen, **Xuanwen Ding**, Wei Chen, Zhongyu Wei.
+
+  Keyword: Large language models; Interactive diagnostic environment; Clinical decision making; Multi-agent systems
+
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2027, **Oral**)
+
+  [[GitHub]](https://github.com/SirryChen/ClinVerse)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper/ProcureGym.png' alt="sym" width="200%"></div></div>
 <div class='paper-box-text' markdown="1">
 
